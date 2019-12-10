@@ -1,8 +1,0 @@
-﻿  RtMidi.cpp
-  rtmidi_c.cpp
-C:\Users\Srinity\Documents\Mentoring\SamiLein_2019-2020\Capstone-code\rtmidi\rtmidi_c.cpp(139,1): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
-  Generating Code...
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(536): message : see declaration of 'strdup'
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1448,5): warning MSB8012: TargetPath(C:\Users\Srinity\Documents\Mentoring\SamiLein_2019-2020\Capstone-code\x64\Debug\rtmidilib.lib) does not match the Library's OutputFile property value (C:\Users\Srinity\Documents\Mentoring\SamiLein_2019-2020\Capstone-code\rtmidi\lib\rtmidid.lib). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1450,5): warning MSB8012: TargetName(rtmidilib) does not match the Library's OutputFile property value (rtmidid). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
-  rtmidilib.vcxproj -> C:\Users\Srinity\Documents\Mentoring\SamiLein_2019-2020\Capstone-code\x64\Debug\rtmidilib.lib
