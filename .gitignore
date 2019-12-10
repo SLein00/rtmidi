@@ -20,6 +20,9 @@
 /doc/doxygen-build.stamp
 /doc/doxygen/Doxyfile
 
+Debug
+
+
 /build*/
 
 /.deps
